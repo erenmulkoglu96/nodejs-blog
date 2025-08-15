@@ -2,4 +2,3 @@ app.js linguist-vendored=true
 routes/adminRoutes.js linguist-vendored=true
 routes/authRoutes.js linguist-vendored=true
 routes/blogRoutes.js linguist-vendored=true
-models/blogs.js linguist-vendored=true
